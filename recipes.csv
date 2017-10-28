@@ -1,79 +1,402 @@
-zucchini: 600 grams
-cinnamon: 10 grams
-thyme: 8 grams
-red onion: 120 grams
-turkey ham: 642 grams
-beef loin: 360 grams
-garlic: 30 grams
-oats: 200 grams
-black pepper: 28 grams
-curry: 6 grams
-beans: 200 grams
-brown rice: 500 grams
-pineapple: 60 grams
-salmon: 240 grams
-egg whites: 180 grams
-cucumber: 460 grams
-lemon juice: 36 grams
-brow rice: 10 grams
-cucumber in preserve: 200 grams
-carrot: 300 grams
-natural yogurt: 600 grams
-onion: 410 grams
-cocktail tomato: 600 grams
-mustard: 4 grams
-honey: 154 grams
-black peper: 8 grams
-olive oil: 210 grams
-radish: 180 grams
-chinese cabbage: 80 grams
-tuna in water: 820 grams
-chicken filet: 1360 grams
-milk: 100 grams
-mushrooms: 180 grams
-salt: 44 grams
-apple: 240 grams
-mozzarella: 60 grams
-sole: 600 grams
-celery root: 80 grams
-parsley root: 100 grams
-vegetable oil: 40 grams
-veal: 320 grams
-banana: 840 grams
-soy sprouts: 300 grams
-clarified butter: 15 grams
-ham: 810 grams
-chili powder: 4 grams
-sweet papryka: 6 grams
-red bean: 300 grams
-butter: 120 grams
-anchois: 20 grams
-tomato: 3860 grams
-egg: 2440 grams
-black bread: 1170 grams
-soy sauce: 20 grams
-fruit tea: 660 grams
-turkey filet: 280 grams
-taco seasoning: 6 grams
-veal seasoning KAMIS: 6 grams
-green olives: 100 grams
-walnuts: 75 grams
-curcuma: 6 grams
-white bread: 810 grams
-sweet potato: 300 grams
-fennel: 40 grams
-shrimp: 200 grams
-marjoram: 6 grams
-berries: 1100 grams
-lettuce: 755 grams
-ALPRO drink: 1000 grams
-potato flour: 100 grams
-parsley: 12 grams
-tomato concentrate: 360 grams
-green pepper: 3 grams
-smoked salmon: 200 grams
-white rice: 300 grams
-emmental cheese: 40 grams
-pork loin: 360 grams
-ginger: 6 grams
-lime juice: 30 grams
+1, 1, oats,40
+1, 1, ALPRO drink,200
+1, 1, cinnamon,2
+1, 1, honey,10
+1, 1, walnuts,15
+1, 1, berries,100
+1, 1, egg,100
+1, 2, brown rice,50
+1, 2, turkey filet,150
+1, 2, zucchini,200
+1, 2, onion,50
+1, 2, olive oil,10
+1, 2, garlic powder,3
+1, 2, black pepper,2
+1, 2, salt,2
+1, 2, oregano,3
+1, 2, natural yogurt,50
+1, 3, egg,100
+1, 3, egg whites,30
+1, 3, banana,140
+1, 3, milk,10
+1, 3, salt,1
+1, 3, natural yogurt,50
+1, 3, berries,100
+1, 3, honey,10
+1, 3, black bread,60
+1, 3, turkey ham,30
+1, 3, cucumber,50
+1, 3, lettuce,10
+1, 4, brown rice,150
+1, 4, chicken filet,150
+1, 4, grean peas,30
+1, 4, corn,30
+1, 4, pineapple,80
+1, 4, natural yogurt,50
+1, 4, lemon juice,10
+1, 4, black pepper,2
+1, 4, salt,4
+1, 4, olive oil,10
+1, 5, egg,150
+1, 5, clarified butter,5
+1, 5, turkey ham,45
+1, 5, green pepper,1
+1, 5, black bread,90
+1, 5, radish,60
+1, 5, tomato,160
+1, 5, fruit tea,220
+1, 5, honey,10
+1, 6, integral pasta,50
+1, 6, turkey filet,150
+1, 6, tomato,160
+1, 6, garlic,2
+1, 6, onion,50
+1, 6, olive oil,15
+1, 6, oregano ,1
+1, 6, thyme,1
+1, 6, basil,1
+1, 6, fresh basil,1
+1, 6, black peper,2
+1, 6, salt,2
+1, 6, tomato concentrate,15
+1, 7, pasta without gluten,50
+1, 7, lettuce,15
+1, 7, tuna in water,120
+1, 7, red pepper,200
+1, 7, celery,50
+1, 7, radish,75
+1, 7, cashew,10
+1, 7, olive oil,10
+1, 7, black pepper,4
+1, 7, salt,2
+1, 8, chicken filet,150
+1, 8, zucchini,150
+1, 8,olive oil,10
+1, 8,lemon juice,10
+1, 8, oregano,2
+1, 8, salt,2
+1, 8, black pepper,2
+1, 8, kasza jaglana,50
+1, 8, frozen spring vegetables,150
+1, 9, turkey sznycel,150
+1, 9, apple,70
+1, 9, vegetable oil,5
+1, 9, onion,15
+1, 9, honey,3
+1, 9, salt,2
+1, 9, black pepper,2
+1, 9, brown rice,50
+1, 9, carrot,150
+1, 9, olive oil,10
+2, 1, white rice,50
+2, 1, tuna in water,120
+2, 1, cucumber in preserve,100
+2, 1, green peas,45
+2, 1, olive oil,15
+2, 2, black bread,90
+2, 2, tuna in water,120
+2, 2, olive oil,10
+2, 2, tomato concentrate,45
+2, 3, white rice,50
+2, 3, egg,50
+2, 3, turkey ham,75
+2, 3, soy sprouts,50
+2, 3, tomato,60
+2, 3, red bean,50
+2, 3, olive oil,5
+2, 4, white rice,50
+2, 4, chicken filet,120
+2, 4, pineapple,80
+2, 4, olive oil,10
+2, 4, natural yogurt,25
+2, 4, emmental cheese,15
+2, 5, white bread,90
+2, 5, butter,10
+2, 5, lettuce,15
+2, 5, ham,90
+2, 5, tomato,160
+2, 6, white rice,50
+2, 6, chicken filet,120
+2, 6, green peas,15
+2, 6, corn,15
+2, 6,pineapple,60
+2, 6, natural yogurt,50
+2, 6, lemon juice,10
+2, 6, black pepper,2
+2, 6, salt,4
+2, 6, olive oil,10
+3, 1, white rice,50
+3, 1, tuna in water,120
+3, 1, cucumber in preserve,100
+3, 1, green peas,45
+3, 1, olive oil,15
+3, 2, black bread,90
+3, 2, tuna in water,120
+3, 2, olive oil,10
+3, 2, tomato concentrate,45
+3, 3, white rice,50
+3, 3, egg,50
+3, 3, turkey ham,75
+3, 3, soy sprouts,50
+3, 3, tomato,60
+3, 3, red bean,50
+3, 3, olive oil,5
+3, 4, white rice,50
+3, 4, chicken filet,120
+3, 4, pineapple,80
+3, 4, olive oil,10
+3, 4, natural yogurt,25
+3, 4, emmental cheese,15
+3, 5, white bread,90
+3, 5, butter,10
+3, 5, lettuce,15
+3, 5, ham,90
+3, 5, tomato,160
+3, 6, white rice,50
+3, 6, chicken filet,120
+3, 6, green peas,15
+3, 6, corn,15
+3, 6,pineapple,60
+3, 6, natural yogurt,50
+3, 6, lemon juice,10
+3, 6, black pepper,2
+3, 6, salt,4
+3, 6, olive oil,10
+4, 1,sole,300
+4, 1, brown rice,50
+4, 1,olive oil,10
+4, 1,carrot,100
+4, 1,parsley root,50
+4, 1,celery root,40
+4, 1,butter,10
+4, 2,chicken filet,200
+4, 2,carrot,50
+4, 2,chinese cabbage,40
+4, 2,onion,50
+4, 2,garlic,5
+4, 2,soy sauce,10
+4, 2,ginger,3
+4, 2,curry,3
+4, 2,chili powder,2
+4, 2,black peper,2
+4, 2,olive oil,10
+4, 2,brown rice,5
+4, 2,potato flour,50
+4, 3,chicken filet,180
+4, 3,natural yogurt,50
+4, 3,lemon,35
+4, 3,provence herbs,3
+4, 3,black pepper,2
+4, 3,brown rice,50
+4, 3,lettuce,80
+4, 3,tomato,130
+4, 3,cucumber,70
+4, 3,radish,30
+4, 3,red onion,25
+4, 3,olive oil,10
+4, 3,lemon juice,5
+4, 3,basil,3
+4, 4,chicken filet,200
+4, 4,brown rice,50
+4, 4,tomato,130
+4, 4,zucchini,200
+4, 4,garlic,10
+4, 4,onion,30
+4, 4,vegetable oil,10
+4, 4,salt,4
+4, 4,black peper,2
+4, 4,thyme,4
+4, 5,cod filet,220
+4, 5,kasza jeczmienna,50
+4, 5,sour cabbage (kiszona kapusta),150
+4, 5,olive oil,5
+4, 5,butter,15
+4, 5,tomato juice,220
+4, 6,chicken filet,200
+4, 6,green beans,100
+4, 6,chili pepper,10
+4, 6,olive oil,15
+4, 6,lemon juice,10
+4, 6,garlic,5
+4, 6,black pepper,2
+4, 6,ginger,2
+4, 6,salt,2
+4, 6,parsley,6
+4, 6,brown rice,50
+4, 7,beef loin,150
+4, 7,kasza gryczana,50
+4, 7,carrot,150
+4, 7,olive oil,15
+4, 7,tomato juice,220
+4, 8,pork loin,180
+4, 8,apple,120
+4, 8,onion,25
+4, 8,vegetable oil,10
+4, 8,marjoram,3
+4, 8,salt,2
+4, 8,black pepper,2
+4, 8,lettuce,30
+4, 8,natural yogurt,50
+4, 8,lemon juice,5
+4, 8,brown rice,50
+4, 9,turkey filet,200
+4, 9,full grain pasta,50
+4, 9,butter,5
+4, 9,broccoli,200
+4, 9,olive oil,5
+4, 9,fruit juice,200
+4, 10,veal,160
+4, 10,tomato,260
+4, 10,green olives,30
+4, 10,mushrooms,90
+4, 10,olive oil,10
+4, 10,tomato concentrate,30
+4, 10,veal seasoning KAMIS,3
+4, 10,black pepper,2
+4, 10,salt,2
+4, 10,brown rice,50
+4, 10,salt,2
+4, 11,chicken filet,180
+4, 11,pineapple,30
+4, 11,emmental cheese,20
+4, 11,olive oil,5
+4, 11,salt,2
+4, 11,black pepper,4
+4, 11,curcuma,3
+4, 11,sweet papryka,3
+4, 11,parsley,6
+4, 11,butter,5
+4, 11,lime juice,15
+4, 11,sweet potato,150
+4, 12,turkey filet,200
+4, 12,zucchini,100
+4, 12,red pepper,65
+4, 12,tomato,130
+4, 12,onion,25
+4, 12,garlic,2
+4, 12,vegetable oil,10
+4, 12,vegetable broth,220
+4, 12,sweet papryka,3
+4, 12,thyme,3
+4, 12,black pepper,2
+4, 12,brown rice,50
+4, 13,brown rice,50
+4, 13,beef loin,180
+4, 13,beans,100
+4, 13,tomato,200
+4, 13,onion,50
+4, 13,olive oil,10
+4, 13,taco seasoning,3
+4, 13,tomato concentrate,15
+4, 14,beef loin,170
+4, 14,cucumbers in preserve,100
+4, 14,onion,50
+4, 14,wheat bran,2
+4, 14,egg,50
+4, 14,chili spice,1
+4, 14,marjoram,1
+4, 14,black pepper,1
+4, 14,salt,2
+4, 14,potato,200
+4, 14,milk,10
+4, 14,salt,2
+4, 14,carrot,150
+4, 14,apple,60
+4, 14,olive oil,5
+4, 14,salt,2
+4, 14,black pepper,2
+5, 1,lettuce,40
+5, 1,cocktail tomato,60
+5, 1,chicken filet,100
+5, 1,egg,65
+5, 1,red onion,20
+5, 1,natural yogurt,50
+5, 1,tuna in water,25
+5, 1,anchois,5
+5, 1,black pepper,1
+5, 1,salt,2
+5, 2,tuna in water,120
+5, 2,lettuce,40
+5, 2,tomato,130
+5, 2,feta cheese,30
+5, 2,green olives,5
+5, 2,cucumbers in preserve,50
+5, 2,olive oil,5
+5, 3,lettuce,40
+5, 3,smoked salmon,100
+5, 3,tomato,140
+5, 3,cucumber,80
+5, 3,olive oil,5
+5, 3,lemon juice,5
+5, 3,honey,2
+5, 3,mustard,2
+5, 3,salt,1
+5, 4,black pepper,2
+5, 4,turkey filet,140
+5, 4,lettuce,40
+5, 4,cocktail tomato,100
+5, 4,mozzarella,30
+5, 4,green olives,5
+5, 4,lemon juice,5
+5, 4,olive oil,5
+5, 5,smoked chicken filet,100
+5, 5,lettuce,40
+5, 5,celery,30
+5, 5,red pepper,30
+5, 5,cucumber,50
+5, 5,tomato,200
+5, 5,green olives,15
+5, 5,salt,2
+5, 5,black pepper,2
+5, 5,mustard,2
+5, 5,olive oil,10
+5, 5,sugar,2
+5, 6,egg,120
+5, 6,spinach,50
+5, 6,olive oil,5
+5, 6,tomato,130
+5, 6,garlic,15
+5, 6,black pepper,1
+5, 6,onion,50
+5, 7,lettuce,40
+5, 7,cocktail tomato,60
+5, 7,shrimp,100
+5, 7,egg,65
+5, 7,red onion,20
+5, 7,natural yogurt,50
+5, 7,tuna in water,25
+5, 7,anchois,5
+5, 7,black pepper,1
+5, 7,salt,2
+5, 8,salmon,120
+5, 8,lettuce,50
+5, 8,cocktail tomato,80
+5, 8,fennel,20
+5, 8,red onion,20
+5, 8,green olives,15
+5, 8,olive oil,5
+5, 8,lemon juice,3
+5, 8,honey,5
+5, 9,chicken tenderloin,120
+5, 9,black pepper,2
+5, 9,garlic,5
+5, 9,provence herbs,3
+5, 9,frozen vegetables,150
+5, 9,salt,1
+5, 9,sesame oil,10
+5, 11,egg,165
+5, 11,zucchini,100
+5, 11,milk,20
+5, 11,salt,2
+5, 11,black pepper,2
+5, 11,lettuce,40
+5, 11,tomato,60
+5, 11,cucumber in preserve,100
+5, 11,onion,50
+5, 12,salmon,140
+5, 12,red onion,25
+5, 12,cucumber in preserve,100
+5, 12,capers,10
+5, 12,lemon juice,6
+5, 12,olive oil,5
+5, 12,black pepper,2
